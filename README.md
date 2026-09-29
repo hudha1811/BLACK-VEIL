@@ -1,4 +1,4 @@
-```markdown
+
 # BLACK VEIL
 
 ## Uncover What Hides in the Shadows.
